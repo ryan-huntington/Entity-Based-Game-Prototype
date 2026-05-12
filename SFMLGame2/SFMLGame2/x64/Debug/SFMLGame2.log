@@ -1,0 +1,4 @@
+﻿  Game.cpp
+  main.cpp
+  Generating Code...
+C:\Users\riot1\source\repos\SFMLGame2\SFMLGame2\main.cpp(1,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory

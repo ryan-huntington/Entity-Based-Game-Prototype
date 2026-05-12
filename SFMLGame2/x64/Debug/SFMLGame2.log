@@ -1,0 +1,20 @@
+﻿  Game.cpp
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(139,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(139,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(158,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(273,11): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(273,11): warning C4244:         with
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(273,11): warning C4244:         [
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(273,11): warning C4244:             T=unsigned int
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(273,11): warning C4244:         ]
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(274,11): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(274,11): warning C4244:         with
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(274,11): warning C4244:         [
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(274,11): warning C4244:             T=unsigned int
+C:\Users\riot1\Coding\IntroGame\SFMLGame2\SFMLGame2\Game.cpp(274,11): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         ]
+  SFMLGame2.vcxproj -> C:\Users\riot1\Coding\IntroGame\SFMLGame2\x64\Debug\SFMLGame2.exe
